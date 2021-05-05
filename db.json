@@ -7,6 +7,26 @@
     {
       "content": "the best featrure ever <3",
       "id": 2
+    },
+    {
+      "content": "my note is grat too",
+      "id": 3
+    },
+    {
+      "content": "test note",
+      "id": 4
+    },
+    {
+      "content": "test note 2",
+      "id": 5
+    },
+    {
+      "content": "test note 3",
+      "id": 6
+    },
+    {
+      "content": "test note 4",
+      "id": 7
     }
   ],
   "persons": [
@@ -19,6 +39,11 @@
       "name": "kaltsoon",
       "number": "045-2323456",
       "id": 2
+    },
+    {
+      "name": "Asko Vilenius",
+      "number": "050-78234664",
+      "id": 3
     }
   ]
 }
